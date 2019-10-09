@@ -14,6 +14,7 @@ Resource for the applied category theory Munich reading group
   - Tai-Danae Bradley: [What is Applied Category Theory?](https://arxiv.org/abs/1809.05923)
   - Tom Leinster: [Basic Category Theory](https://arxiv.org/abs/1612.09375)
   - Martin Brandenburg: [Einführung in die Kategorientheorie](https://www.springer.com/la/book/9783662470688)
+  - D.E. Rydeheard & R.M. Burstall: [Computational Category theory](http://www.cs.man.ac.uk/~david/categories/book/book.pdf)
   
 ## Lectures
   - [David Spivak and Brendan Fong: Applied Category Theory](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/)
