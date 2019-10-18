@@ -18,6 +18,7 @@ Resource for the applied category theory Munich reading group
   
 ## Lectures
   - [David Spivak and Brendan Fong: Applied Category Theory](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/)
+  - [John Baez: The Azimuth Project, Applied Category Theory Course](https://www.azimuthproject.org/azimuth/show/Applied+Category+Theory+Course)
   - [CS 353: Algebraic Logic - Chapter 4: Category theory](http://boole.stanford.edu/cs353/handouts/book4.pdf)
 
 ## Talks
