@@ -25,5 +25,9 @@ Resource for the applied category theory Munich reading group
   
 ## Talks
   - [Gabriel Gonzales: Data science APIs in Haskell - λC Winter Retreat 2017](https://www.youtube.com/watch?v=pXjBcoe3M2s)
+  
+## Papers
+  - [Lahtinen and Stenvall: Towards a unified framework for decomposability of processes](https://arxiv.org/abs/1606.05529)
+
 ## Other resources
   * [Statebox - Awesome Applied Category Theory](https://github.com/statebox/awesome-applied-category-theory)
