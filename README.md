@@ -29,6 +29,7 @@ Resource for the applied category theory Munich reading group
   
 ## Papers
   - [Lahtinen and Stenvall: Towards a unified framework for decomposability of processes](https://arxiv.org/abs/1606.05529)
+  - [Hinze and James: Reason Isomorphically!](http://www.cs.ox.ac.uk/people/daniel.james/iso/iso.pdf)
 
 ## Other resources
   * [Statebox - Awesome Applied Category Theory](https://github.com/statebox/awesome-applied-category-theory)
