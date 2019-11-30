@@ -33,3 +33,5 @@ Resource for the applied category theory Munich reading group
 
 ## Other resources
   * [Statebox - Awesome Applied Category Theory](https://github.com/statebox/awesome-applied-category-theory)
+### Press
+  * [Dietmar Dath - Wie man das Pferdchen mit dem Einhorn verrechnet](https://www.faz.net/aktuell/karriere-hochschule/dank-wojewodski-bedeutet-das-gleichheitszeichen-nicht-mehr-dasselbe-15291106.html)
