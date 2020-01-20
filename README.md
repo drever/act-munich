@@ -33,7 +33,8 @@ Resource for the applied category theory Munich reading group
   - [Lahtinen and Stenvall: Towards a unified framework for decomposability of processes](https://arxiv.org/abs/1606.05529)
   - [Hinze and James: Reason Isomorphically!](http://www.cs.ox.ac.uk/people/daniel.james/iso/iso.pdf)
   - [Chris Henderson: Generalized Abastract Nonsense: Category Theory and Adjunctions](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2008/REUPapers/Henderson.pdf)
-
+  - [William Lawvere: Adjointness in foundations](http://www.tac.mta.ca/tac/reprints/articles/16/tr16abs.html)
+  
 ## Other resources
   * [Statebox - Awesome Applied Category Theory](https://github.com/statebox/awesome-applied-category-theory)
 ### Press
