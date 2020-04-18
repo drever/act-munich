@@ -7,6 +7,7 @@ Resource for the applied category theory Munich reading group
       - [Lectures](#lectures)
       - [Talks](#talks)
       - [Papers](#papers)
+      - [Software](#software)
       - [Other resources](#other-resources)
   
 ## Books 
