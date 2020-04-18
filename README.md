@@ -35,6 +35,10 @@ Resource for the applied category theory Munich reading group
   - [Chris Henderson: Generalized Abastract Nonsense: Category Theory and Adjunctions](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2008/REUPapers/Henderson.pdf)
   - [William Lawvere: Adjointness in foundations](http://www.tac.mta.ca/tac/reprints/articles/16/tr16abs.html)
   
+## Software
+  * [Catlab.jl is an experimental framework for applied category theory, written in Julia](https://github.com/epatters/Catlab.jl)
+  * [homotopy.io, a web-based proof assistant for finitely-presented globular n-categories, for arbitrary n](https://homotopy.io/)
+  
 ## Other resources
   * [Statebox - Awesome Applied Category Theory](https://github.com/statebox/awesome-applied-category-theory)
 ### Press
