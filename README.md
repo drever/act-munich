@@ -20,6 +20,7 @@ Resource for the applied category theory Munich reading group
   - Paolo Perrone: [Notes on Category Theory with examples from basic mathematics](https://arxiv.org/abs/1912.10642)
   - Steve Awodey: [Category Theory](http://angg.twu.net/tmp/2016-optativa/awodey__category_theory.pdf)
   - Bill Lawvere &  Stephen Schanuel: [Conceptual Mathematics: A First Introduction to Categories](https://s3.amazonaws.com/arena-attachments/325201/2ff932bf546d8985eb613fccf02b69c7.pdf)
+  - Emily Riehl: [Category Theory in Context](http://www.math.jhu.edu/~eriehl/context.pdf)
   
 ## Lectures
   - [David Spivak and Brendan Fong: Applied Category Theory](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/)
