@@ -8,6 +8,7 @@ Resource for the applied category theory Munich reading group
       - [Talks](#talks)
       - [Papers](#papers)
       - [Software](#software)
+      - [Reading groups](#reading-groups)
       - [Other resources](#other-resources)
   
 ## Books 
@@ -43,6 +44,9 @@ Resource for the applied category theory Munich reading group
   * [Catlab.jl is an experimental framework for applied category theory, written in Julia](https://github.com/epatters/Catlab.jl)
   * [homotopy.io, a web-based proof assistant for finitely-presented globular n-categories, for arbitrary n](https://homotopy.io/)
   * https://edit.statebox.cloud/
+
+## Reading groups
+  * [Maryland Applied Category Theory Group](https://mdcats.github.io/)
   
 ## Other resources
   * [Statebox - Awesome Applied Category Theory](https://github.com/statebox/awesome-applied-category-theory)
