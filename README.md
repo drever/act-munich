@@ -47,6 +47,8 @@ Resource for the applied category theory Munich reading group
 
 ## Reading groups
   * [Maryland Applied Category Theory Group](https://mdcats.github.io/)
+  * [NYC Category Theory](https://www.meetup.com/Category_Theory/)
+  * [SF Types, Theorems, and Programming Languages](https://www.meetup.com/SF-Types-Theorems-and-Programming-Languages/)
   
 ## Other resources
   * [Statebox - Awesome Applied Category Theory](https://github.com/statebox/awesome-applied-category-theory)
