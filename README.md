@@ -44,6 +44,7 @@ Resource for the applied category theory Munich reading group
   - William Lawvere: [Adjointness in foundations](http://www.tac.mta.ca/tac/reprints/articles/16/tr16abs.html)
   - Eilenberg and MacLane: [General Theory of Natural Equivalences](https://www.ams.org/journals/tran/1945-058-00/S0002-9947-1945-0013131-6/S0002-9947-1945-0013131-6.pdf)
   - Richard Blute and Philip Scott: [Category Theory for Linear Logicians](http://www.csi.uottawa.ca/~phil/papers/catsurv.web.pdf)
+  - John C. Baez and Aaron Lauda: (A Prehistory of n-Categorical Physics)[http://math.ucr.edu/home/baez/history.pdf]
   
 ## Software
   * [Catlab.jl is an experimental framework for applied category theory, written in Julia](https://github.com/epatters/Catlab.jl)
