@@ -15,7 +15,7 @@ Resource for the applied category theory Munich reading group
   - Brendan Fong & David Spivak: [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316)
   - Bartosz Milewski: [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
   - Tai-Danae Bradley: [What is Applied Category Theory?](https://arxiv.org/abs/1809.05923)
-  - Tom Leinster: [Basic Category Theory](https://arxiv.org/abs/1612.09375)
+  - Tom Leinster: [Basic Category Theory](https://arxiv.org/abs/1612.09375), [exercises](https://michaelcweiss.files.wordpress.com/2019/03/leinster-exercises.pdf)
   - Martin Brandenburg: [Einführung in die Kategorientheorie](https://www.springer.com/la/book/9783662470688)
   - D.E. Rydeheard & R.M. Burstall: [Computational Category theory](http://www.cs.man.ac.uk/~david/categories/book/book.pdf)
   - Paolo Perrone: [Notes on Category Theory with examples from basic mathematics](https://arxiv.org/abs/1912.10642)
