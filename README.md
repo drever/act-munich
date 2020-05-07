@@ -39,6 +39,7 @@ Resource for the applied category theory Munich reading group
   - [Hinze and James: Reason Isomorphically!](http://www.cs.ox.ac.uk/people/daniel.james/iso/iso.pdf)
   - [Chris Henderson: Generalized Abastract Nonsense: Category Theory and Adjunctions](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2008/REUPapers/Henderson.pdf)
   - [William Lawvere: Adjointness in foundations](http://www.tac.mta.ca/tac/reprints/articles/16/tr16abs.html)
+  - [Eilenberg and MacLane: General Theory of Natural Equivalences](https://www.ams.org/journals/tran/1945-058-00/S0002-9947-1945-0013131-6/S0002-9947-1945-0013131-6.pdf)
   
 ## Software
   * [Catlab.jl is an experimental framework for applied category theory, written in Julia](https://github.com/epatters/Catlab.jl)
