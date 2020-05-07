@@ -24,22 +24,22 @@ Resource for the applied category theory Munich reading group
   - Emily Riehl: [Category Theory in Context](http://www.math.jhu.edu/~eriehl/context.pdf)
   
 ## Lectures
-  - [David Spivak and Brendan Fong: Applied Category Theory](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/)
-  - [Brendan Fong, Bartosz Milewski, and David Spivak: 18.S097: Programming with Categories](http://brendanfong.com/programmingcats.html)
-  - [John Baez: The Azimuth Project, Applied Category Theory Course](https://www.azimuthproject.org/azimuth/show/Applied+Category+Theory+Course)
+  - David Spivak and Brendan Fong: [Applied Category Theory](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/)
+  - Brendan Fong, Bartosz Milewski, and David Spivak: [18.S097: Programming with Categories](http://brendanfong.com/programmingcats.html)
+  - John Baez: [The Azimuth Project, Applied Category Theory Course](https://www.azimuthproject.org/azimuth/show/Applied+Category+Theory+Course)
   - [CS 353: Algebraic Logic - Chapter 4: Category theory](http://boole.stanford.edu/cs353/handouts/book4.pdf)
 ### Functional programming
-  - [Prof. Giesl: Funktionale Programmierung](https://video.fsmpi.rwth-aachen.de/12ss-funkprog)
+  - Prof. Giesl: [Funktionale Programmierung](https://video.fsmpi.rwth-aachen.de/12ss-funkprog)
   
 ## Talks
-  - [Gabriel Gonzales: Data science APIs in Haskell - λC Winter Retreat 2017](https://www.youtube.com/watch?v=pXjBcoe3M2s)
+  - Gabriel Gonzales: [Data science APIs in Haskell - λC Winter Retreat 2017](https://www.youtube.com/watch?v=pXjBcoe3M2s)
   
 ## Papers
-  - [Lahtinen and Stenvall: Towards a unified framework for decomposability of processes](https://arxiv.org/abs/1606.05529)
-  - [Hinze and James: Reason Isomorphically!](http://www.cs.ox.ac.uk/people/daniel.james/iso/iso.pdf)
-  - [Chris Henderson: Generalized Abastract Nonsense: Category Theory and Adjunctions](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2008/REUPapers/Henderson.pdf)
-  - [William Lawvere: Adjointness in foundations](http://www.tac.mta.ca/tac/reprints/articles/16/tr16abs.html)
-  - [Eilenberg and MacLane: General Theory of Natural Equivalences](https://www.ams.org/journals/tran/1945-058-00/S0002-9947-1945-0013131-6/S0002-9947-1945-0013131-6.pdf)
+  - Lahtinen and Stenvall: [Towards a unified framework for decomposability of processes](https://arxiv.org/abs/1606.05529)
+  - Hinze and James: [Reason Isomorphically!](http://www.cs.ox.ac.uk/people/daniel.james/iso/iso.pdf)
+  - Chris Henderson: [Generalized Abastract Nonsense: Category Theory and Adjunctions](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2008/REUPapers/Henderson.pdf)
+  - William Lawvere: [Adjointness in foundations](http://www.tac.mta.ca/tac/reprints/articles/16/tr16abs.html)
+  - Eilenberg and MacLane: [General Theory of Natural Equivalences](https://www.ams.org/journals/tran/1945-058-00/S0002-9947-1945-0013131-6/S0002-9947-1945-0013131-6.pdf)
   
 ## Software
   * [Catlab.jl is an experimental framework for applied category theory, written in Julia](https://github.com/epatters/Catlab.jl)
