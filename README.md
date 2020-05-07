@@ -28,6 +28,8 @@ Resource for the applied category theory Munich reading group
   - Brendan Fong, Bartosz Milewski, and David Spivak: [18.S097: Programming with Categories](http://brendanfong.com/programmingcats.html)
   - John Baez: [The Azimuth Project, Applied Category Theory Course](https://www.azimuthproject.org/azimuth/show/Applied+Category+Theory+Course)
   - [CS 353: Algebraic Logic - Chapter 4: Category theory](http://boole.stanford.edu/cs353/handouts/book4.pdf)
+  -  Aleks Kissinger and John van de Wetering: [Quantum Processes and Computation](http://www.cs.ru.nl/A.Kissinger/teaching/qpc2019/)
+  
 ### Functional programming
   - Prof. Giesl: [Funktionale Programmierung](https://video.fsmpi.rwth-aachen.de/12ss-funkprog)
   
