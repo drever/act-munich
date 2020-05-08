@@ -25,6 +25,7 @@ Resource for the applied category theory Munich reading group
   - Saunders MacLane and Ieke Moerdijk: [Sheaves in Geometry and Logic](https://www.springer.com/de/book/9780387977102)
   - Roger Hindley and Jonathan Seldin: [Lambda-Calculus and Combinators,
 an Introduction](https://www.cin.ufpe.br/~djo/files/Lambda-Calculus%20and%20Combinators.pdf)
+  - Bodo Pareigis: [Categories and Functors](https://epub.ub.uni-muenchen.de/7244/1/7244.pdf)
   
 ## Lectures
   - David Spivak and Brendan Fong: [Applied Category Theory](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/)
@@ -32,6 +33,7 @@ an Introduction](https://www.cin.ufpe.br/~djo/files/Lambda-Calculus%20and%20Comb
   - John Baez: [The Azimuth Project, Applied Category Theory Course](https://www.azimuthproject.org/azimuth/show/Applied+Category+Theory+Course)
   - [CS 353: Algebraic Logic - Chapter 4: Category theory](http://boole.stanford.edu/cs353/handouts/book4.pdf)
   -  Aleks Kissinger and John van de Wetering: [Quantum Processes and Computation](http://www.cs.ru.nl/A.Kissinger/teaching/qpc2019/)
+  - Bodo Pareigis: [Category theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf)
   
 ### Functional programming
   - Prof. Giesl: [Funktionale Programmierung](https://video.fsmpi.rwth-aachen.de/12ss-funkprog)
