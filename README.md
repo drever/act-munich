@@ -58,6 +58,7 @@ an Introduction](https://www.cin.ufpe.br/~djo/files/Lambda-Calculus%20and%20Comb
   - Clarke et al.: [Profunctor optics, a categorical update](https://arxiv.org/pdf/2001.07488.pdf)
   
 ## Software
+  * [Yichuan Shen tickz editor](https://tikzcd.yichuanshen.de/)
   * [Catlab.jl is an experimental framework for applied category theory, written in Julia](https://github.com/epatters/Catlab.jl)
   * [homotopy.io, a web-based proof assistant for finitely-presented globular n-categories, for arbitrary n](https://homotopy.io/)
   * https://edit.statebox.cloud/
