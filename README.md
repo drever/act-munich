@@ -40,6 +40,7 @@ an Introduction](https://www.cin.ufpe.br/~djo/files/Lambda-Calculus%20and%20Comb
   - [CS 353: Algebraic Logic - Chapter 4: Category theory](http://boole.stanford.edu/cs353/handouts/book4.pdf)
   -  Aleks Kissinger and John van de Wetering: [Quantum Processes and Computation](http://www.cs.ru.nl/A.Kissinger/teaching/qpc2019/)
   - Bodo Pareigis: [Category theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf)
+  - Steve Awodey: [Category Theory Foundations, Oregon Programming Languages Summer School 2012](https://www.youtube.com/watch?v=ZKmodCApZwk)
   
 ### Functional programming
   - Prof. Giesl: [Funktionale Programmierung](https://video.fsmpi.rwth-aachen.de/12ss-funkprog)
