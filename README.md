@@ -10,6 +10,7 @@ Resource for the applied category theory Munich reading group
       - [Papers](#papers)
       - [Software](#software)
       - [Reading groups](#reading-groups)
+      - [Podcasts](#podcasts)
       - [Other resources](#other-resources)
 
 ## Wikis
@@ -69,6 +70,9 @@ an Introduction](https://www.cin.ufpe.br/~djo/files/Lambda-Calculus%20and%20Comb
   * [Maryland Applied Category Theory Group](https://mdcats.github.io/)
   * [NYC Category Theory](https://www.meetup.com/Category_Theory/)
   * [SF Types, Theorems, and Programming Languages](https://www.meetup.com/SF-Types-Theorems-and-Programming-Languages/)
+
+## Podcasts  
+  * [The Search Space](https://thesearch.space/episodes), a podcast on Logic Programming
   
 ## Other resources
   * [Statebox - Awesome Applied Category Theory](https://github.com/statebox/awesome-applied-category-theory)
