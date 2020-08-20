@@ -65,6 +65,7 @@ an Introduction](https://www.cin.ufpe.br/~djo/files/Lambda-Calculus%20and%20Comb
   * [homotopy.io, a web-based proof assistant for finitely-presented globular n-categories, for arbitrary n](https://homotopy.io/)
   * https://edit.statebox.cloud/
   * statebox [idris-ct](https://github.com/statebox/idris-ct)
+  * [DisCoPy, a tool box for computing with monoidal categories](https://pypi.org/project/discopy/)
 
 ## Reading groups
   * [Maryland Applied Category Theory Group](https://mdcats.github.io/)
