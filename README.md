@@ -1,6 +1,8 @@
 # act-munich
 Resource for the applied category theory Munich reading group
 
+  - Stanford Encycolpedia of Philosophy - [Category Theory](https://plato.stanford.edu/entries/category-theory/)
+  
 ## Table of contents
   - Applied category theory Munich
       - [Wikis](#wikis)
