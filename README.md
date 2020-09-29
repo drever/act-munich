@@ -44,6 +44,7 @@ an Introduction](https://www.cin.ufpe.br/~djo/files/Lambda-Calculus%20and%20Comb
   -  Aleks Kissinger and John van de Wetering: [Quantum Processes and Computation](http://www.cs.ru.nl/A.Kissinger/teaching/qpc2019/)
   - Bodo Pareigis: [Category theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf)
   - Steve Awodey: [Category Theory Foundations, Oregon Programming Languages Summer School 2012](https://www.youtube.com/watch?v=ZKmodCApZwk)
+  - Richard E. Borcherds: [Commutative algebra](https://www.youtube.com/watch?v=QOTf8KfrZFU&list=PL8yHsr3EFj53rSexSz7vsYt-3rpHPR3HB)
   
 ### Functional programming
   - Prof. Giesl: [Funktionale Programmierung](https://video.fsmpi.rwth-aachen.de/12ss-funkprog)
