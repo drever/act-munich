@@ -80,6 +80,8 @@ an Introduction](https://www.cin.ufpe.br/~djo/files/Lambda-Calculus%20and%20Comb
   
 ## Other resources
   * [Statebox - Awesome Applied Category Theory](https://github.com/statebox/awesome-applied-category-theory)
+  * [Steven Shaw - Programming Language Theory](https://steshaw.org/plt/)
+  
 ### Blogs / Press
   * [Qiaochu Yuan - Annoying Precision](https://qchu.wordpress.com/)
   * [Dietmar Dath - Wie man das Pferdchen mit dem Einhorn verrechnet](https://www.faz.net/aktuell/karriere-hochschule/dank-wojewodski-bedeutet-das-gleichheitszeichen-nicht-mehr-dasselbe-15291106.html)
