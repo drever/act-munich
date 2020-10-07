@@ -81,6 +81,7 @@ an Introduction](https://www.cin.ufpe.br/~djo/files/Lambda-Calculus%20and%20Comb
 ## Other resources
   * [Statebox - Awesome Applied Category Theory](https://github.com/statebox/awesome-applied-category-theory)
   * [Steven Shaw - Programming Language Theory](https://steshaw.org/plt/)
+  * [Prathyush - Category Theory Resources](https://github.com/prathyvsh/category-theory-resources)
   
 ### Blogs / Press
   * [Qiaochu Yuan - Annoying Precision](https://qchu.wordpress.com/)
