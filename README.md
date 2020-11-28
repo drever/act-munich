@@ -10,7 +10,7 @@ Resource for the applied category theory Munich reading group
       - [Lectures](#lectures)
       - [Talks](#talks)
       - [Papers](#papers)
-      - [Software](#software)
+      - [Tools and Software](#tools-and-software)
       - [Reading groups](#reading-groups)
       - [Podcasts](#podcasts)
       - [Other resources](#other-resources)
@@ -63,13 +63,14 @@ an Introduction](https://www.cin.ufpe.br/~djo/files/Lambda-Calculus%20and%20Comb
   - John C. Baez and Aaron Lauda: [A Prehistory of n-Categorical Physics](http://math.ucr.edu/home/baez/history.pdf)
   - Clarke et al.: [Profunctor optics, a categorical update](https://arxiv.org/pdf/2001.07488.pdf)
   
-## Software
+## Tools and Software
   * [Yichuan Shen tickz editor](https://tikzcd.yichuanshen.de/)
   * [Catlab.jl is an experimental framework for applied category theory, written in Julia](https://github.com/epatters/Catlab.jl)
   * [homotopy.io, a web-based proof assistant for finitely-presented globular n-categories, for arbitrary n](https://homotopy.io/)
   * https://edit.statebox.cloud/
   * statebox [idris-ct](https://github.com/statebox/idris-ct)
   * [DisCoPy, a tool box for computing with monoidal categories](https://pypi.org/project/discopy/)
+  * [quiver: a modern commutative diagram editor](https://q.uiver.app/)
 
 ## Reading groups
   * [Maryland Applied Category Theory Group](https://mdcats.github.io/)
