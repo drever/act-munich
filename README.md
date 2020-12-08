@@ -42,10 +42,11 @@ an Introduction](https://www.cin.ufpe.br/~djo/files/Lambda-Calculus%20and%20Comb
   - Brendan Fong, Bartosz Milewski, and David Spivak: [18.S097: Programming with Categories](http://brendanfong.com/programmingcats.html), [lecture notes](http://brendanfong.com/programmingcats_files/cats4progs-DRAFT.pdf)
   - John Baez: [The Azimuth Project, Applied Category Theory Course](https://www.azimuthproject.org/azimuth/show/Applied+Category+Theory+Course)
   - [CS 353: Algebraic Logic - Chapter 4: Category theory](http://boole.stanford.edu/cs353/handouts/book4.pdf)
-  -  Aleks Kissinger and John van de Wetering: [Quantum Processes and Computation](http://www.cs.ru.nl/A.Kissinger/teaching/qpc2019/)
+  - Aleks Kissinger and John van de Wetering: [Quantum Processes and Computation](http://www.cs.ru.nl/A.Kissinger/teaching/qpc2019/)
   - Bodo Pareigis: [Category theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf)
   - Steve Awodey: [Category Theory Foundations, Oregon Programming Languages Summer School 2012](https://www.youtube.com/watch?v=ZKmodCApZwk)
   - Richard E. Borcherds: [Commutative algebra](https://www.youtube.com/watch?v=QOTf8KfrZFU&list=PL8yHsr3EFj53rSexSz7vsYt-3rpHPR3HB)
+  - Thomas Timmermann: [Vorlesung “Kategorientheorie”](https://www.timmer-net.de/teaching/11-12/v-kategorien/)
   
 ### Functional programming
   - Prof. Giesl: [Funktionale Programmierung](https://video.fsmpi.rwth-aachen.de/12ss-funkprog)
