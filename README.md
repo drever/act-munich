@@ -72,6 +72,7 @@ an Introduction](https://www.cin.ufpe.br/~djo/files/Lambda-Calculus%20and%20Comb
   * statebox [idris-ct](https://github.com/statebox/idris-ct)
   * [DisCoPy, a tool box for computing with monoidal categories](https://pypi.org/project/discopy/)
   * [quiver: a modern commutative diagram editor](https://q.uiver.app/)
+  * [Algebraic Julia](https://www.algebraicjulia.org/blog)
 
 ## Reading groups
   * [Maryland Applied Category Theory Group](https://mdcats.github.io/)
