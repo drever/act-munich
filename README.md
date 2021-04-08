@@ -36,6 +36,8 @@ Resource for the applied category theory Munich reading group
 an Introduction](https://www.cin.ufpe.br/~djo/files/Lambda-Calculus%20and%20Combinators.pdf)
   - Bodo Pareigis: [Categories and Functors](https://epub.ub.uni-muenchen.de/7244/1/7244.pdf)
   - D.E. Rydeheard, R.M. Burstall [Computational Category Theory](http://www.cs.man.ac.uk/~david/categories/book/book.pdf)
+  - Jiri Adámek, Horst Herrlich, George E. Strecker: [Abstract and Concrete Categories The Joy of Cats](http://katmat.math.uni-bremen.de/acc/)
+
   
 ## Lectures
   - David Spivak and Brendan Fong: [Applied Category Theory](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/)
