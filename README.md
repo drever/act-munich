@@ -49,6 +49,7 @@ an Introduction](https://www.cin.ufpe.br/~djo/files/Lambda-Calculus%20and%20Comb
   - Steve Awodey: [Category Theory Foundations, Oregon Programming Languages Summer School 2012](https://www.youtube.com/watch?v=ZKmodCApZwk)
   - Richard E. Borcherds: [Commutative algebra](https://www.youtube.com/watch?v=QOTf8KfrZFU&list=PL8yHsr3EFj53rSexSz7vsYt-3rpHPR3HB)
   - Thomas Timmermann: [Vorlesung “Kategorientheorie”](https://www.timmer-net.de/teaching/11-12/v-kategorien/)
+  - Thomas Streicher: [Introduction to Category Theory and Categorical Logic](https://www2.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf)
   
 ### Functional programming
   - Prof. Giesl: [Funktionale Programmierung](https://video.fsmpi.rwth-aachen.de/12ss-funkprog)
