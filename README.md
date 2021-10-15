@@ -1,7 +1,7 @@
 # act-munich
 Resource for the applied category theory Munich reading group
 
-  - Stanford Encycolpedia of Philosophy - [Category Theory](https://plato.stanford.edu/entries/category-theory/)
+Current events and meeting of applied category theory munich: [ACT Munich](https://act-munich.github.io/).
   
 ## Table of contents
   - Applied category theory Munich
@@ -66,7 +66,8 @@ an Introduction](https://www.cin.ufpe.br/~djo/files/Lambda-Calculus%20and%20Comb
   - Richard Blute and Philip Scott: [Category Theory for Linear Logicians](http://www.csi.uottawa.ca/~phil/papers/catsurv.web.pdf)
   - John C. Baez and Aaron Lauda: [A Prehistory of n-Categorical Physics](http://math.ucr.edu/home/baez/history.pdf)
   - Clarke et al.: [Profunctor optics, a categorical update](https://arxiv.org/pdf/2001.07488.pdf)
-  
+  - Stanford Encycolpedia of Philosophy - [Category Theory](https://plato.stanford.edu/entries/category-theory/)
+
 ## Tools and Software
   * [Yichuan Shen tickz editor](https://tikzcd.yichuanshen.de/)
   * [Catlab.jl is an experimental framework for applied category theory, written in Julia](https://github.com/epatters/Catlab.jl)
